@@ -1,4 +1,3 @@
-/*
 import static java.lang.Math.PI;
 import java.util.Scanner;
 abstract class abstractshape {
@@ -27,7 +26,3 @@ class Mainn{
         circle.areaC(r);
     }
 }
-
-
-
-*/
