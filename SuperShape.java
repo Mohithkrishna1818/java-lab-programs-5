@@ -1,4 +1,3 @@
-/*
 class Shapee{
     void display() {
         System.out.println("This is a generic shape.");
@@ -29,4 +28,4 @@ class Mainnn {
         rectangle.display();
     }
 }
-*/
+
